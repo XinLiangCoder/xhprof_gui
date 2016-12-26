@@ -1,3 +1,20 @@
+备注
+=========
+
+原文地址：https://github.com/preinheimer/xhprof
+
+在上面源码的基础上进行修改的。
+
+本地 Nginx 环境，已经配置成功。
+
+配置步骤：[PHP 性能追踪及分析工具（XHPROF）]() 
+
+遇到配置问题，可以给我的微信公众号留言，看到后我会及时回复。
+
+微信名称：IT小圈儿，微信号：ToFeelings。
+
+![IT小圈儿](https://ntaste.github.io/image/qr.jpg) 
+
 XHProf UI
 =========
 
