@@ -11,9 +11,7 @@
 
 遇到配置问题，可以给我的微信公众号留言，看到后我会及时回复。
 
-微信名称：IT小圈儿，微信号：ToFeelings。
-
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg) 
+![公众号](https://xinliangcoder.github.io/image/qr.jpg) 
 
 XHProf UI
 =========
